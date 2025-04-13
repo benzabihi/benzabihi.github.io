@@ -1,0 +1,27 @@
+/* src/pages/SocialMedia.css */
+.socialmedia-container {
+    padding: 2rem;
+    max-width: 900px;
+    margin: 0 auto;
+    background: #fff;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
+  .social-item {
+    margin-bottom: 2rem;
+  }
+  
+  .social-item h2 {
+    margin-bottom: 0.5rem;
+  }
+  
+  .social-item a {
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    display: inline-block;
+  }
+  
+  .socialmedia-container p {
+    line-height: 1.6;
+  }
+  

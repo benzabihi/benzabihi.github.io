@@ -1,0 +1,27 @@
+/* src/pages/About.css */
+.about-container {
+    padding: 2rem;
+    max-width: 900px;
+    margin: 0 auto;
+    background: #fff;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
+  .about-content p {
+    line-height: 1.6;
+    margin-bottom: 1rem;
+  }
+  
+  .about-images {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin-top: 2rem;
+  }
+  
+  .about-images img {
+    width: calc(50% - 0.5rem);
+    height: auto;
+    border-radius: 8px;
+  }
+  
