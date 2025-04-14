@@ -1,0 +1,30 @@
+/* src/pages/Projects.css */
+.projects-container {
+    padding: 2rem;
+    max-width: 900px;
+    margin: 0 auto;
+    background: #fff;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
+  .project-item {
+    margin-bottom: 2rem;
+  }
+  
+  .project-item h2 {
+    margin-bottom: 0.5rem;
+  }
+  
+  .project-image {
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+  }
+  
+  .projects-container p {
+    line-height: 1.6;
+    margin-bottom: 1rem;
+  }
+  
