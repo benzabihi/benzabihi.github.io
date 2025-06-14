@@ -4,6 +4,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/benzabihi.io',
+  base: '/',
+  build:{outDir: 'docs',},
   plugins: [react(), tailwindcss()],
 })
