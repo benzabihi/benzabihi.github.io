@@ -12,7 +12,7 @@ const projects = [
     image: "gameview.png",
   },
   {
-    title: "BookWyrm",
+    title: "BookWrym",
     description:
       "A website/application that allows users to search a library of books, check off favorite categories/genres, and get recommended other books based on their preferences. ",
     tech: ["HTML", "JavaScript", "CSS"],

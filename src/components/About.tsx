@@ -26,7 +26,7 @@ const About: React.FC = () => (
         <ul className="list-disc list-inside text-gray-700 space-y-2">
           <li>
             ⚙️ Experience building web applications using React, JavaScript and
-            HTML/CSS.{" "}
+            HTML/CSS{" "}
           </li>
           <li>🔧 Designed backend pipelines in Python & Dagster</li>
           <li>☁️ Experienced deploying to AWS, Azure & Vercel</li>

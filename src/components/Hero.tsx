@@ -51,7 +51,7 @@ const Hero: React.FC = () => {
 
           <div className="flex flex-wrap gap-4">
             <a
-              href="/devResume2025.pdf"
+              href="/benZabihidev.pdf"
               download
               className="
                 px-6 py-3 bg-blue-600 !text-white 
