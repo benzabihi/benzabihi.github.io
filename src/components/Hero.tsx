@@ -5,7 +5,7 @@ const Hero: React.FC = () => {
   return (
     <section
       id="hero"
-      className="h-[50vh] flex justify-center items-center bg-white overflow-hidden"
+      className="pt-16 md: pt-0 h - [50vh] flex justify-center items-center bg-white overflow-hidden"
     >
       <div
         className="
